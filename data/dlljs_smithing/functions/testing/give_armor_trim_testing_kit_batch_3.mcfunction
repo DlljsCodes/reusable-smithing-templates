@@ -1,5 +1,3 @@
-# NOTE: This function will fail on version 1.20.3+ if the "update_1_21" experiment is not enabled
-
 # Gives the user the following items:
 # 1x Flow Armor Trim Smithing Template
 # 1x Bolt Armor Trim Smithing Template
