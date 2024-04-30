@@ -7,7 +7,7 @@
 # 1x Rib Armor Trim Smithing Template
 # 1x Eye Armor Trim Smithing Template
 # 1x Spire Armor Trim Smithing Template
-# 9x Emerald
+# 8x Emerald
 # 1x Golden Helmet
 # 1x Golden Chestplate
 # 1x Golden Leggings
@@ -25,7 +25,7 @@ give @s minecraft:snout_armor_trim_smithing_template 1
 give @s minecraft:rib_armor_trim_smithing_template 1
 give @s minecraft:eye_armor_trim_smithing_template 1
 give @s minecraft:spire_armor_trim_smithing_template 1
-give @s minecraft:emerald 9
+give @s minecraft:emerald 8
 give @s minecraft:golden_helmet 1
 give @s minecraft:golden_chestplate 1
 give @s minecraft:golden_leggings 1

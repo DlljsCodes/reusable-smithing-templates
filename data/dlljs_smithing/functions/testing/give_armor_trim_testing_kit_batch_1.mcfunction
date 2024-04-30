@@ -7,7 +7,7 @@
 # 1x Wayfinder Armor Trim Smithing Template
 # 1x Raiser Armor Trim Smithing Template
 # 1x Shaper Armor Trim Smithing Template
-# 9x Emerald
+# 8x Emerald
 # 1x Leather Cap
 # 1x Leather Tunic
 # 1x Leather Pants
@@ -25,7 +25,7 @@ give @s minecraft:dune_armor_trim_smithing_template 1
 give @s minecraft:wayfinder_armor_trim_smithing_template 1
 give @s minecraft:raiser_armor_trim_smithing_template 1
 give @s minecraft:shaper_armor_trim_smithing_template 1
-give @s minecraft:emerald 9
+give @s minecraft:emerald 8
 give @s minecraft:leather_helmet 1
 give @s minecraft:leather_chestplate 1
 give @s minecraft:leather_leggings 1
