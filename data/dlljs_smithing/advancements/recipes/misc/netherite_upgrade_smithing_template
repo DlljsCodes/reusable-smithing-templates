@@ -52,7 +52,9 @@
   },
   "requirements": [
     [
-      "has_netherite_upgrade_smithing_template",
+      "has_netherite_upgrade_smithing_template"
+    ],
+    [
       "has_diamond",
       "has_netherrack",
       "has_netherite_scrap"
