@@ -3,6 +3,8 @@ A Minecraft: Java Edition data pack that makes smithing templates reusable and n
 
 [Smithing templates](https://minecraft.wiki/w/Smithing_Template) are items that can be found at structures and are used to alter weapons, tools and armor on a [smithing table](https://minecraft.wiki/w/Smithing_Table). Personally, I didn't like how smithing templates would be consumed when used. It limits creativity with armor trims and makes obtaining netherite items more difficult than it needs to be. This data pack fixes this issue by returning the smithing template back to the player when it's used on a smithing table. 
 
+![GIF demonstrating the data pack in action.](img/smithing.gif)
+
 Additionally, it adds a crafting recipe for the [Netherite Upgrade Smithing Template](https://minecraft.wiki/w/Netherite_Upgrade) that's much less resource intensive and doesn't require you to hunt it down in a generated structure.
 
 This data pack does not affect the odds of finding smithing templates in generated structures. The existing duplication recipes for smithing templates are also not affected.
