@@ -7,6 +7,8 @@ A Minecraft: Java Edition data pack that makes smithing templates reusable and n
 
 Additionally, it adds a crafting recipe for the [Netherite Upgrade Smithing Template](https://minecraft.wiki/w/Netherite_Upgrade) that's much less resource intensive and doesn't require you to hunt it down in a generated structure.
 
+![Recipe for the Netherite Upgrade Smiothing Template that the data pack adds. 8 netherrack in a U-shape, 1 diamond in the middle and 1 netherite scrap at the top.](img/netherite_upgrade_recipe.png)
+
 This data pack does not affect the odds of finding smithing templates in generated structures. The existing duplication recipes for smithing templates are also not affected.
 
 *Tested on Minecraft: Java Edition version 1.20.4, but may work on earlier and later versions.*
