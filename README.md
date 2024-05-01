@@ -1,3 +1,4 @@
+![Pack icon](/pack.png)
 # Reusable Smithing Templates
 A Minecraft: Java Edition data pack that makes smithing templates reusable and netherite upgrades easily craftable.
 
