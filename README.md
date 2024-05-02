@@ -2,7 +2,7 @@
 # Reusable Smithing Templates
 A Minecraft: Java Edition data pack that makes smithing templates reusable and netherite upgrades easily craftable.
 
-**Avaliable on:** <img src="https://github.com/favicon.ico" width="12"> **GitHub** | <img src="https://modrinth.com/favicon.ico" width="12"> Modrinth *(coming soon)* | <img src="https://www.curseforge.com/favicon.ico" width="12"> Curseforge *(coming soon)* | <img src="https://www.planetminecraft.com/favicon.ico" width="12">  [Planet Minecraft](https://www.planetminecraft.com/data-pack/reusable-smithing-templates/)
+**Avaliable on:** **GitHub** | Modrinth *(coming soon)* | [Curseforge](https://www.curseforge.com/minecraft/data-packs/reusable-smithing-templates) |   [Planet Minecraft](https://www.planetminecraft.com/data-pack/reusable-smithing-templates/)
 
 [Smithing templates](https://minecraft.wiki/w/Smithing_Template) are items that can be found at structures and are used to alter weapons, tools and armor on a [smithing table](https://minecraft.wiki/w/Smithing_Table). Personally, I didn't like how smithing templates would be consumed when used. It limits creativity with armor trims and makes obtaining netherite items more difficult than it needs to be. This data pack fixes this issue by returning the smithing template back to the player when it's used on a smithing table. 
 
