@@ -12,11 +12,11 @@
     "entries": [
       {
         "formats": 41,
-        "directory": "mc_versions/1_20_5"
+        "directory": "1_20_5"
       },
       {
         "formats": 48,
-        "directory": "mc_versions/1_21"
+        "directory": "1_21"
       }
     ]
   }
