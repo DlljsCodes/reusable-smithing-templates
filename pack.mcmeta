@@ -3,14 +3,15 @@
     "pack_format": 26,
     "supported_formats": [
       26,
-      41
+      41,
+      48
     ],
     "description": "Makes smithing templates reusable. By Dlljs."
   },
   "overlays": {
     "entries": [
       {
-        "formats": 41,
+        "formats": [41, 48],
         "directory": "1_20_5_recipe"
       }
     ]
