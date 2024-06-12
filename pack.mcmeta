@@ -11,11 +11,12 @@
   "overlays": {
     "entries": [
       {
-        "formats": [
-          41, 
-          48
-        ],
+        "formats": 41,
         "directory": "mc_versions/1_20_5"
+      },
+      {
+        "formats": 48,
+        "directory": "mc_versions/1_21"
       }
     ]
   }
