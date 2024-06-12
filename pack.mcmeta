@@ -11,8 +11,11 @@
   "overlays": {
     "entries": [
       {
-        "formats": [41, 48],
-        "directory": "1_20_5_recipe"
+        "formats": [
+          41, 
+          48
+        ],
+        "directory": "1_20_5"
       }
     ]
   }
