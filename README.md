@@ -14,7 +14,9 @@ Additionally, it adds a crafting recipe for the [Netherite Upgrade Smithing Temp
 
 This data pack does not affect the odds of finding smithing templates in generated structures. The existing duplication recipes for smithing templates are also not affected.
 
-*Compatible with Minecraft: Java Edition version 1.21.*
+#### Supported Minecraft: Java Edition versions:
+* For 1.21, use v1.0.1 or later.
+* For 1.20.3 - 1.20.6, use v1.0.0.
 
 # How to Install
 ## Singleplayer
