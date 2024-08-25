@@ -14,7 +14,7 @@
       ]
     ],
     "rewards": {
-      "function": "dlljs_smithing:give_back_smithing_template/armor_trim/experiment_1_12/bolt"
+      "function": "dlljs_smithing:give_back_smithing_template/armor_trim/bolt"
     }
   }
   
