@@ -2,7 +2,7 @@
 # Reusable Smithing Templates
 A Minecraft: Java Edition data pack that makes smithing templates reusable and netherite upgrades easily craftable.
 
-**Avaliable on:** **GitHub** | [Modrinth](https://modrinth.com/datapack/reusable-smithing-templates) | [CurseForge](https://www.curseforge.com/minecraft/data-packs/reusable-smithing-templates) |   [Planet Minecraft](https://www.planetminecraft.com/data-pack/reusable-smithing-templates/)
+**Available on:** **GitHub** | [Modrinth](https://modrinth.com/datapack/reusable-smithing-templates) | [CurseForge](https://www.curseforge.com/minecraft/data-packs/reusable-smithing-templates) |   [Planet Minecraft](https://www.planetminecraft.com/data-pack/reusable-smithing-templates/)
 
 [Smithing templates](https://minecraft.wiki/w/Smithing_Template) are items that can be found at structures and are used to alter weapons, tools and armor on a [smithing table](https://minecraft.wiki/w/Smithing_Table). Personally, I didn't like how smithing templates would be consumed when used. It limits creativity with armor trims and makes obtaining netherite items more difficult than it needs to be. This data pack fixes this issue by returning the smithing template back to the player when it's used on a smithing table. 
 
@@ -10,12 +10,13 @@ A Minecraft: Java Edition data pack that makes smithing templates reusable and n
 
 Additionally, it adds a crafting recipe for the [Netherite Upgrade Smithing Template](https://minecraft.wiki/w/Netherite_Upgrade) that's much less resource intensive and doesn't require you to hunt it down in a generated structure.
 
-![Recipe for the Netherite Upgrade Smiothing Template that the data pack adds. 8 netherrack in a U-shape, 1 diamond in the middle and 1 netherite scrap at the top.](img/netherite_upgrade_recipe.png)
+![Recipe for the Netherite Upgrade Smithing Template that the data pack adds. 8 netherrack in a U-shape, 1 diamond in the middle and 1 netherite scrap at the top.](img/netherite_upgrade_recipe.png)
 
 This data pack does not affect the odds of finding smithing templates in generated structures. The existing duplication recipes for smithing templates are also not affected.
 
 #### Supported Minecraft: Java Edition versions:
-* For 1.21, use v1.0.1 or later.
+* For 1.21.2 snapshots, use v1.0.2-pre1 or later.
+* For 1.21 - 1.21.1, use v1.0.1 or later.
 * For 1.20.3 - 1.20.6, use v1.0.0.
 
 # How to Install
