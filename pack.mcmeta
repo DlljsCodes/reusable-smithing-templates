@@ -3,7 +3,7 @@
     "pack_format": 50,
     "supported_formats": {
       "min_inclusive": 48,
-      "max_inclusive": 50
+      "max_inclusive": 57
     },
     "description": "Makes smithing templates reusable. By Dlljs."
   },
