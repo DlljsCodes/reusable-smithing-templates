@@ -1,1 +1,1 @@
-say Reusable Smithing Templates data pack v1.0.4 has been loaded
+say Reusable Smithing Templates data pack v1.0.5 has been loaded
