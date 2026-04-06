@@ -53,6 +53,7 @@ This data pack is licensed under the MIT License. The license can be found [here
 ## Contact
 
 * Twitter: [@dlljs](https://twitter.com/dlljs)
+* Bluesky: [@dlljs.uk](https://bsky.app/profile/dlljs.uk)
 * Discord: dlljs
 * Email: [contact@dlljs.uk](mailto:contact@dlljs.uk)
 
