@@ -1,13 +1,13 @@
 {
   "pack": {
-    "pack_format": 88,
+    "pack_format": 94,
     "supported_formats": {
       "min_inclusive": 48,
-      "max_inclusive": 88
+      "max_inclusive": 94
     },
     "description": "Makes smithing templates reusable. By Dlljs.",
     "min_format": 48,
-    "max_format": 88
+    "max_format": 94
   },
   "overlays": {
     "entries": [
